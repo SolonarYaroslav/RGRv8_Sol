@@ -1,0 +1,9 @@
+The modulus of the sum of two complex numbers has been calculated.
+The modulus of the sum of two complex numbers has been calculated.
+The modulus of the sum of two complex numbers has been calculated.
+The modulus of the sum of two complex numbers c3 and c4 has been calculated.
+Wkh prgxoxv ri wkh vxp ri wzr frpsoha qxpehuv kdv ehhq fdofxodwhg.
+Wkh prgxoxv ri wkh vxp ri wzr frpsoha qxpehuv f3 dqg f4 kdv ehhq fdofxodwhg.
+Frpsoha qxpehuv: 1.000000 3.000000, -1.000000 2.000000
+Prgxoxv ri vxp (f1 + f2): 5
+Prgxoxv ri vxp (f3 + f4): 3.16228
